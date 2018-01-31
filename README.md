@@ -3,7 +3,7 @@
 
 # HIH6130
 
-Honeywell HumidIcon Digital Humidity/Temperature Sensors are digital output-type relative humidity and temperature sensors combined in the same package.These sensors provide an accuracy level of ±4.5% RH. They possess industry-leading long-term stability and reliability, true temperature-compensated digital I2C, energy efficiency, and ultra-small package size and options.
+Honeywell HumidIcon Digital Humidity/Temperature Sensors are digital output-type relative humidity and temperature sensors combined in the same package.These sensors provide an accuracy level of ±4% RH. They possess industry-leading long-term stability and reliability, true temperature-compensated digital I2C, energy efficiency, and ultra-small package size and options.
 This Device is available from www.ncd.io 
 
 [SKU: HIH6130_I2CS]
@@ -42,7 +42,7 @@ Applications:
 • Indusrial incubators/microenvironments
 
 How to Use the HIH6130 Arduino Library
-The HIH61300 is very easy to interface as following.
+The HIH6130 is very easy to interface as following.
 
 1.Address calling:The following command is used to call the address of HIH6130 to start the transmission.
 
